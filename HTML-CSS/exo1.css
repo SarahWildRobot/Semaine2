@@ -1,0 +1,11 @@
+body {background-color:white;font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: justify;}
+h1 {color: tomato; font-size: 50px; text-decoration:underline;}
+.lorem {width: 15cm; font-size: 18px;}
+.history {font-style: italic; width: 15cm; padding-left: 20cm;}
+span {border: 3px solid mediumblue;}
+div {width: fit-content;
+    background-color: springgreen;}
+h2 {font-size: 24px; 
+    font-weight: bold; 
+    color: mistyrose;
+width: 20cm;}

@@ -1,0 +1,68 @@
+body 
+{
+    background-color: rgb(253, 243, 214);
+}
+
+header 
+{
+    font-size: 55px; 
+font-family: fantasy;
+color: maroon;
+position: center;
+text-align: center;
+}
+
+span 
+{
+border: 4px dashed olivedrab;
+padding: 3px 12px 3px 12px;
+}
+
+h1
+{
+font-family: fantasy;
+font-size: 32px;
+color: sienna;
+text-align: center;
+}
+
+h2 
+{
+    font-family: cursive;
+    font-size: 26px;
+    color: maroon;
+    margin: 3% ;
+}
+
+section
+{
+font-family: cursive;
+font-size: 18px;
+}
+
+article
+{
+max-width: 40%;
+background-color: white;
+border: 2px solid sienna;
+border-style: dashed;
+}
+
+h3
+{
+    font-style: bold;
+color: olivedrab;
+text-indent: 10px;
+}
+a
+{
+    font-weight: normal;
+    font-style: italic;
+    text-decoration:none;
+    color: orangered
+}
+aside
+{
+    margin: 3% 3% 90% 90%;
+    position: sticky;
+}
